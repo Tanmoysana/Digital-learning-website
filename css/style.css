@@ -1,3 +1,34 @@
 .heights{
     height: 250px;
 }
+.fa-facebook-f{
+    font-size: 25px;
+    color: white;
+    background-color: #292828;
+    padding: 9px;
+   border-radius: 35px;
+}
+.fa-twitter{
+    font-size: 25px;
+    color: white;
+    padding: 9px;
+   border-radius: 35px;
+   background-color: #292828;
+}
+.fa-linkedin-in{
+    font-size: 25px;
+    color: white;
+    padding: 9px;
+   border-radius: 35px;
+   background-color: #292828;
+}
+.fa-tiktok{
+    font-size: 25px;
+    color: white;
+    padding: 9px;
+   border-radius: 35px;
+   background-color: #292828;
+}
+footer{
+    height: 300px;
+}
